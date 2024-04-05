@@ -78,7 +78,7 @@ function App() {
 
     return (
         <div className="App">
-            <h1>Memory Game</h1>
+            <h1>Memory Game made by Susmita Shrestha</h1>
             <div className="game-info">
                 <p>Moves: {moves}</p>
                 <button onClick={restartGame}>Restart</button>
